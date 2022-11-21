@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**typedef-sorbet/typedef-sorbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+NAME
+    Spencer (sorbet)
+  
+DESCRIPTION
+    C++/QML developer, although I dabble in various other languages as well (Python, Rust, etc.).
+    
+    Repositories contained herein are for storage and portfolio purposes first, and public distribution second.
+    Unless explicitly stated otherwise, code distributed here is done without any promise or expectation of 
+    maintenance, bug-fixing, or support. Pull-requests are welcome, but issues (if enabled at all) will go
+    ignored.
+    
+    These repositories are just hobby projects that I've decided to host publicly. If you find a 
+    personal use for them, awesome! Any bugfixes or improvements that you'd like to see made, however, should 
+    be done yourself; please do not contact me regarding issues you want me to fix.
+```
