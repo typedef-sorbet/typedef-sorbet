@@ -1,6 +1,6 @@
 ```
 NAME
-    Spencer (sorbet)
+    Spencer / Juniper (sorbet)
   
 DESCRIPTION
     C++/QML developer, although I dabble in various other languages as well (Python, Rust, etc.).
